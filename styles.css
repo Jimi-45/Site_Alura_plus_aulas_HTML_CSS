@@ -33,14 +33,13 @@ body {
     text-decoration: none;
     padding: 1em;
     color: var(--branco-principal);
-    border-radius: 16px;
+    border-radius: 5px;
     display: block;
     text-align: center;
 }
 
 .botao_secundario{
     background-color: transparent;
-    border-style: solid;
-    border-color: var(--branco-principal);
+    border: 2px solid var(--branco-principal);
     text-align: center;
 }
