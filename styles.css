@@ -98,3 +98,26 @@ body {
 .container__descricao {
     padding: 2em;
 }
+
+.container_dispositivos {
+    text-align: center;
+}
+
+.secundario_titulo {
+    margin-top: 264px;
+    margin-bottom: 40px;
+}
+
+
+.container_caixas {
+    display: flex;
+    justify-content: center;
+    gap: 69px;
+}
+
+.texto_imagem {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--branco-principal);
+}
+
